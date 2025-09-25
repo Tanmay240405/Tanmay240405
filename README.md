@@ -1,49 +1,36 @@
-<h2 align="left">Hi 👋! My name is Tanmay</h2>
+<h1 align="center">Hi 👋, I'm Tanmay</h1>
+<h3 align="center">💻 Computer Science Student | ⚡ Tech Enthusiast | 🚀 Lifelong Learner</h3>
 
-###
+---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay240405&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay240405&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanmay240405&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanmay240405&layout=compact&langs_count=6&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://giphy.com/gifs/hacker-hacking-binary-V4NSR1NG2p0KeJJyr5"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+### 🛠️ Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,swift,cpp,c,js,mysql,arduino" height="40" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="www.linkedin.com/in/tanmay-saxena-1389802b1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/tanmay-saxena-1389802b1" target="_blank">
+    <img src="https://img.shields.io/badge/-Tanmay%20Saxena-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="tanmaysaxena2404@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:tanmaysaxena2404@gmail.com">
+    <img src="https://img.shields.io/badge/-tanmaysaxena2404@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Tanmay240405/Tanmay240405/output/snake.svg" alt="Snake animation" />
-
-###
+### 🐍 Fun Animation
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tanmay240405/Tanmay240405/output/snake.svg" alt="Snake animation" />
+</div>
