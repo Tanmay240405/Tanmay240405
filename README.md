@@ -30,7 +30,7 @@
 
 ---
 
-### 🐍 Fun Animation
+### 🐍 Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tanmay240405/Tanmay240405/output/snake.svg" alt="Snake animation" />
 </div>
