@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tanmay+%F0%9F%91%8B;Frontend+%26+Full-Stack+Developer;React.js+%7C+Swift+%7C+AI%2FML+Enthusiast;Building+things+that+look+good+%26+work+well." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tanmay;Frontend+%26+Full-Stack+Developer;React.js+%7C+Swift+%7C+AI%2FML+Enthusiast;Building+things+that+look+good+%26+work+well." alt="Typing SVG" />
 
 </div>
 
-<h3 align="center">💻 Computer Science Student | ⚡ Full-Stack in Progress | 🚀 Lifelong Learner</h3>
+<h3 align="center">Computer Science Student | Full-Stack in Progress | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://tanmaysaxena.me" target="_blank">
@@ -24,18 +24,17 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
-- 🎓 B.Tech Computer Science @ MIT World Peace University, Pune — CGPA 8.69
-- 🛠️ Currently building a **React + Tailwind golf scoring dashboard** with a custom animated HUD component
-- 💼 Interned at **Infosys** as an App Developer, building a native iOS Fleet Management app
-- 🍏 Selected among the **Top 100** students institution-wide for the **Apple & Infosys iOS Student Developer Program**
-- 🌱 Leveling up from frontend specialist → full-stack (Node.js, APIs, databases, deployment)
-- 🎨 I like software that's technically solid *and* visually polished — not one or the other
+- B.Tech Computer Science @ MIT World Peace University, Pune — CGPA 8.69
+- Interned at **Infosys** as an App Developer, building a native iOS Fleet Management app
+- Selected among the **Top 100** students institution-wide for the **Apple & Infosys iOS Student Developer Program**
+- Leveling up from frontend specialist to full-stack (Node.js, APIs, databases, deployment)
+- I like software that's technically solid *and* visually polished — not one or the other
 
 ---
 
-### 💼 Experience
+### Experience
 
 **App Developer Intern · Infosys** — *Mysore, India (Apr 2026)*
 - Engineered a native iOS fleet management app with multi-role access control across three personas: Maintenance Personnel, Driver, and Fleet Manager
@@ -44,14 +43,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**⛳ [Golf4Good](https://github.com/Tanmay240405/Golf4Good)**
-[🔗 Live](https://golf4-good.vercel.app)
+**[Golf4Good](https://github.com/Tanmay240405/Golf4Good)**
+[Live](https://golf4-good.vercel.app)
 
 A React + Tailwind golf scoring dashboard with a custom-built floating HUD — a single cohesive organic silhouette rendered with hand-tuned SVG paths and Bezier curves.
 
@@ -60,8 +59,8 @@ A React + Tailwind golf scoring dashboard with a custom-built floating HUD — a
 </td>
 <td width="50%" valign="top">
 
-**🎨 [Paint-By-Number-web](https://github.com/Tanmay240405/Paint-By-Number-web)**
-[🔗 Live](https://paint-by-numbers-beta.vercel.app)
+**[Paint-By-Number-web](https://github.com/Tanmay240405/Paint-By-Number-web)**
+[Live](https://paint-by-numbers-beta.vercel.app)
 
 Full-stack platform that turns any image into a paint-by-numbers template via a dual ML pipeline — classic CV (bilateral filtering, SLIC, K-Means) and SAM-based segmentation — served through FastAPI.
 
@@ -72,8 +71,8 @@ Full-stack platform that turns any image into a paint-by-numbers template via a 
 <tr>
 <td width="50%" valign="top">
 
-**📄 [ResumeForge AI](https://github.com/Tanmay240405/ResumeForgeAI)**
-[🔗 Live](https://resume-forge-ai-iota.vercel.app)
+**[ResumeForge AI](https://github.com/Tanmay240405/ResumeForgeAI)**
+[Live](https://resume-forge-ai-iota.vercel.app)
 
 Client-side resume builder and ATS-score analyzer — multi-step builder with 3 templates, PDF export, and a weighted scoring engine that compares resumes against job descriptions.
 
@@ -82,7 +81,7 @@ Client-side resume builder and ATS-score analyzer — multi-step builder with 3 
 </td>
 <td width="50%" valign="top">
 
-**🚛 [Fleet Management System](https://github.com/daiv09/group4-fms)**
+**[Fleet Management System](https://github.com/daiv09/group4-fms)**
 *Academic capstone, contributed frontend/UI*
 
 Native iOS fleet management app with role-based dashboards (Fleet Manager, Maintenance Manager, Driver), live trip tracking, tyre-health monitoring, and Supabase-backed real-time data.
@@ -94,7 +93,7 @@ Native iOS fleet management app with role-based dashboards (Fleet Manager, Maint
 <tr>
 <td width="50%" valign="top">
 
-**🏎️ F1.Experience**
+**F1.Experience**
 
 High-engagement F1 web app with a Neo-Brutalist UI, GSAP scroll-triggered motion sequences, and cloud asset delivery via AWS S3.
 
@@ -103,7 +102,7 @@ High-engagement F1 web app with a Neo-Brutalist UI, GSAP scroll-triggered motion
 </td>
 <td width="50%" valign="top">
 
-**✏️ ABCD — Any Body Can Draw**
+**ABCD — Any Body Can Draw**
 
 Native iOS app guiding users through face-portrait creation using Apple's Vision framework for landmark detection, PencilKit for input, and CoreImage for real-time processing.
 
@@ -115,7 +114,7 @@ Native iOS app guiding users through face-portrait creation using Apple's Vision
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,swift,python,cpp,c,git,figma,xcode,gcp,mysql" height="45" />
@@ -123,7 +122,7 @@ Native iOS app guiding users through face-portrait creation using Apple's Vision
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tanmay240405&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
@@ -136,15 +135,15 @@ Native iOS app guiding users through face-portrait creation using Apple's Vision
 
 ---
 
-### 🏆 Achievements & Certifications
+### Achievements & Certifications
 
-- 🍏 **iOS Student Developer Program** — Powered by Apple & Infosys, MIT-WPU (2025) — top 100 students institution-wide
-- 📜 **Data Structures & Algorithms + Web Development** — Algo University
-- ☁️ **Google Developer Groups (GDG) Cloud Campaign** (2025) — Google
+- **iOS Student Developer Program** — Powered by Apple & Infosys, MIT-WPU (2025) — top 100 students institution-wide
+- **Data Structures & Algorithms + Web Development** — Algo University
+- **Google Developer Groups (GDG) Cloud Campaign** (2025) — Google
 
 ---
 
-### 🐍 Contribution Graph
+### Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tanmay240405/Tanmay240405/output/snake.svg" alt="Snake animation" />
@@ -152,7 +151,7 @@ Native iOS app guiding users through face-portrait creation using Apple's Vision
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://tanmaysaxena.me" target="_blank">
