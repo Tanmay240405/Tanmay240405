@@ -26,7 +26,7 @@
 
 ### About Me
 
-- B.Tech Computer Science @ MIT World Peace University, Pune — CGPA 8.69
+- B.Tech Computer Science @ MIT World Peace University, Pune
 - Interned at **Infosys** as an App Developer, building a native iOS Fleet Management app
 - Selected among the **Top 100** students institution-wide for the **Apple & Infosys iOS Student Developer Program**
 - Leveling up from frontend specialist to full-stack (Node.js, APIs, databases, deployment)
